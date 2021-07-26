@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lukuki4
+- 👋 Hi, I’m @Lukman
 - 👀 I’m interested in ... Meeting great programmers
 - 🌱 I’m currently learning ... Cloud Computing 
 - 💞️ I’m looking to collaborate on ...
