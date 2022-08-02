@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lukman
 - 👀 I’m interested in ... Meeting great programmers
 - 🌱 I’m currently learning ... Cloud Computing 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on cloud migration works...
 - 📫 How to reach me ... adebayolukman9@gmail.com
 
 <!---
